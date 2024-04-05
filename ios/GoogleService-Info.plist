@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>767151182371-66n235ke40g3as57hhk5mk89em5lj5fu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.767151182371-66n235ke40g3as57hhk5mk89em5lj5fu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>767151182371-48nncfh3rbhptf2nb3nfqd743mhk4rtv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCsbemSZ73tb42ZnBf7KL5N7I8GgEvdspg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>767151182371</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.chattersocial.app</string>
+	<key>PROJECT_ID</key>
+	<string>chatter-social-404614</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatter-social-404614.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:767151182371:ios:fee6bf7c8fb1f9c6701796</string>
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "767151182371",
+    "project_id": "chatter-social-404614",
+    "storage_bucket": "chatter-social-404614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767151182371:android:8450b0bd41fbaf2c701796",
+        "android_client_info": {
+          "package_name": "io.chattersocial.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767151182371-nr83r5845c442r17t59nrotg7lbv8sn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6XJhrueyfeSC3GunVlOf5NblbzSG2IOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767151182371-nr83r5845c442r17t59nrotg7lbv8sn0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "767151182371-66n235ke40g3as57hhk5mk89em5lj5fu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.chattersocial.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

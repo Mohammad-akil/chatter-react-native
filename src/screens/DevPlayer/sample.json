@@ -1,0 +1,446 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "8306bf66-0170-4fc9-9a2a-82830d0d3e93",
+    "sha256": "721b3752f5964cb1a52e62d8b5d97ed762a3ff43e9471ee0e5ea9ad714b00757",
+    "created": "2024-03-14T03:39:52.300Z",
+    "duration": 12.173062,
+    "channels": 1,
+    "models": ["aa274f3c-e8b3-456a-ac08-dfd797d45514"],
+    "model_info": {
+      "aa274f3c-e8b3-456a-ac08-dfd797d45514": {
+        "name": "general-nova",
+        "version": "2023-07-06.22746",
+        "arch": "nova"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Hello. My name is Justin, and I am testing out the speech to text transcription. This will be used to highlight the word that I am currently on.",
+            "confidence": 0.99902344,
+            "words": [
+              {
+                "word": "hello",
+                "start": 0.24,
+                "end": 0.64,
+                "confidence": 0.9753418,
+                "punctuated_word": "Hello."
+              },
+              {
+                "word": "my",
+                "start": 0.64,
+                "end": 0.79999995,
+                "confidence": 0.9995117,
+                "punctuated_word": "My"
+              },
+              {
+                "word": "name",
+                "start": 0.79999995,
+                "end": 1.04,
+                "confidence": 1,
+                "punctuated_word": "name"
+              },
+              {
+                "word": "is",
+                "start": 1.04,
+                "end": 1.1999999,
+                "confidence": 0.9995117,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "justin",
+                "start": 1.1999999,
+                "end": 1.6999999,
+                "confidence": 0.83813477,
+                "punctuated_word": "Justin,"
+              },
+              {
+                "word": "and",
+                "start": 1.92,
+                "end": 2.24,
+                "confidence": 1,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "i",
+                "start": 2.24,
+                "end": 2.3999999,
+                "confidence": 0.9995117,
+                "punctuated_word": "I"
+              },
+              {
+                "word": "am",
+                "start": 2.3999999,
+                "end": 2.6399999,
+                "confidence": 0.9951172,
+                "punctuated_word": "am"
+              },
+              {
+                "word": "testing",
+                "start": 2.6399999,
+                "end": 3.12,
+                "confidence": 1,
+                "punctuated_word": "testing"
+              },
+              {
+                "word": "out",
+                "start": 3.12,
+                "end": 3.6,
+                "confidence": 1,
+                "punctuated_word": "out"
+              },
+              {
+                "word": "the",
+                "start": 3.6,
+                "end": 4.1,
+                "confidence": 0.9980469,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "speech",
+                "start": 4.16,
+                "end": 4.64,
+                "confidence": 0.99902344,
+                "punctuated_word": "speech"
+              },
+              {
+                "word": "to",
+                "start": 4.64,
+                "end": 4.96,
+                "confidence": 0.9980469,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "text",
+                "start": 4.96,
+                "end": 5.44,
+                "confidence": 0.99902344,
+                "punctuated_word": "text"
+              },
+              {
+                "word": "transcription",
+                "start": 5.44,
+                "end": 5.94,
+                "confidence": 0.9008789,
+                "punctuated_word": "transcription."
+              },
+              {
+                "word": "this",
+                "start": 6.9080625,
+                "end": 7.068063,
+                "confidence": 0.71484375,
+                "punctuated_word": "This"
+              },
+              {
+                "word": "will",
+                "start": 7.068063,
+                "end": 7.3080626,
+                "confidence": 0.9995117,
+                "punctuated_word": "will"
+              },
+              {
+                "word": "be",
+                "start": 7.3080626,
+                "end": 7.5480623,
+                "confidence": 1,
+                "punctuated_word": "be"
+              },
+              {
+                "word": "used",
+                "start": 7.5480623,
+                "end": 8.028063,
+                "confidence": 0.99853516,
+                "punctuated_word": "used"
+              },
+              {
+                "word": "to",
+                "start": 8.028063,
+                "end": 8.428062,
+                "confidence": 0.9995117,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "highlight",
+                "start": 8.428062,
+                "end": 8.828062,
+                "confidence": 1,
+                "punctuated_word": "highlight"
+              },
+              {
+                "word": "the",
+                "start": 8.828062,
+                "end": 9.068063,
+                "confidence": 0.99853516,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "word",
+                "start": 9.068063,
+                "end": 9.308063,
+                "confidence": 0.99365234,
+                "punctuated_word": "word"
+              },
+              {
+                "word": "that",
+                "start": 9.308063,
+                "end": 9.468062,
+                "confidence": 0.99902344,
+                "punctuated_word": "that"
+              },
+              {
+                "word": "i",
+                "start": 9.468062,
+                "end": 9.628062,
+                "confidence": 0.9995117,
+                "punctuated_word": "I"
+              },
+              {
+                "word": "am",
+                "start": 9.628062,
+                "end": 9.788063,
+                "confidence": 0.9707031,
+                "punctuated_word": "am"
+              },
+              {
+                "word": "currently",
+                "start": 9.788063,
+                "end": 10.268063,
+                "confidence": 0.99902344,
+                "punctuated_word": "currently"
+              },
+              {
+                "word": "on",
+                "start": 10.268063,
+                "end": 10.768063,
+                "confidence": 0.9511719,
+                "punctuated_word": "on."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "utterances": [
+      {
+        "start": 0.24,
+        "end": 5.94,
+        "confidence": 0.98014325,
+        "channel": 0,
+        "transcript": "Hello. My name is Justin, and I am testing out the speech to text transcription.",
+        "words": [
+          {
+            "word": "hello",
+            "start": 0.24,
+            "end": 0.64,
+            "confidence": 0.9753418,
+            "punctuated_word": "Hello."
+          },
+          {
+            "word": "my",
+            "start": 0.64,
+            "end": 0.79999995,
+            "confidence": 0.9995117,
+            "punctuated_word": "My"
+          },
+          {
+            "word": "name",
+            "start": 0.79999995,
+            "end": 1.04,
+            "confidence": 1,
+            "punctuated_word": "name"
+          },
+          {
+            "word": "is",
+            "start": 1.04,
+            "end": 1.1999999,
+            "confidence": 0.9995117,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "justin",
+            "start": 1.1999999,
+            "end": 1.6999999,
+            "confidence": 0.83813477,
+            "punctuated_word": "Justin,"
+          },
+          {
+            "word": "and",
+            "start": 1.92,
+            "end": 2.24,
+            "confidence": 1,
+            "punctuated_word": "and"
+          },
+          {
+            "word": "i",
+            "start": 2.24,
+            "end": 2.3999999,
+            "confidence": 0.9995117,
+            "punctuated_word": "I"
+          },
+          {
+            "word": "am",
+            "start": 2.3999999,
+            "end": 2.6399999,
+            "confidence": 0.9951172,
+            "punctuated_word": "am"
+          },
+          {
+            "word": "testing",
+            "start": 2.6399999,
+            "end": 3.12,
+            "confidence": 1,
+            "punctuated_word": "testing"
+          },
+          {
+            "word": "out",
+            "start": 3.12,
+            "end": 3.6,
+            "confidence": 1,
+            "punctuated_word": "out"
+          },
+          {
+            "word": "the",
+            "start": 3.6,
+            "end": 4.1,
+            "confidence": 0.9980469,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "speech",
+            "start": 4.16,
+            "end": 4.64,
+            "confidence": 0.99902344,
+            "punctuated_word": "speech"
+          },
+          {
+            "word": "to",
+            "start": 4.64,
+            "end": 4.96,
+            "confidence": 0.9980469,
+            "punctuated_word": "to"
+          },
+          {
+            "word": "text",
+            "start": 4.96,
+            "end": 5.44,
+            "confidence": 0.99902344,
+            "punctuated_word": "text"
+          },
+          {
+            "word": "transcription",
+            "start": 5.44,
+            "end": 5.94,
+            "confidence": 0.9008789,
+            "punctuated_word": "transcription."
+          }
+        ],
+        "id": "b4e67ca6-d46e-4416-869d-a3753880842f"
+      },
+      {
+        "start": 6.9080625,
+        "end": 10.768063,
+        "confidence": 0.97107875,
+        "channel": 0,
+        "transcript": "This will be used to highlight the word that I am currently on.",
+        "words": [
+          {
+            "word": "this",
+            "start": 6.9080625,
+            "end": 7.068063,
+            "confidence": 0.71484375,
+            "punctuated_word": "This"
+          },
+          {
+            "word": "will",
+            "start": 7.068063,
+            "end": 7.3080626,
+            "confidence": 0.9995117,
+            "punctuated_word": "will"
+          },
+          {
+            "word": "be",
+            "start": 7.3080626,
+            "end": 7.5480623,
+            "confidence": 1,
+            "punctuated_word": "be"
+          },
+          {
+            "word": "used",
+            "start": 7.5480623,
+            "end": 8.028063,
+            "confidence": 0.99853516,
+            "punctuated_word": "used"
+          },
+          {
+            "word": "to",
+            "start": 8.028063,
+            "end": 8.428062,
+            "confidence": 0.9995117,
+            "punctuated_word": "to"
+          },
+          {
+            "word": "highlight",
+            "start": 8.428062,
+            "end": 8.828062,
+            "confidence": 1,
+            "punctuated_word": "highlight"
+          },
+          {
+            "word": "the",
+            "start": 8.828062,
+            "end": 9.068063,
+            "confidence": 0.99853516,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "word",
+            "start": 9.068063,
+            "end": 9.308063,
+            "confidence": 0.99365234,
+            "punctuated_word": "word"
+          },
+          {
+            "word": "that",
+            "start": 9.308063,
+            "end": 9.468062,
+            "confidence": 0.99902344,
+            "punctuated_word": "that"
+          },
+          {
+            "word": "i",
+            "start": 9.468062,
+            "end": 9.628062,
+            "confidence": 0.9995117,
+            "punctuated_word": "I"
+          },
+          {
+            "word": "am",
+            "start": 9.628062,
+            "end": 9.788063,
+            "confidence": 0.9707031,
+            "punctuated_word": "am"
+          },
+          {
+            "word": "currently",
+            "start": 9.788063,
+            "end": 10.268063,
+            "confidence": 0.99902344,
+            "punctuated_word": "currently"
+          },
+          {
+            "word": "on",
+            "start": 10.268063,
+            "end": 10.768063,
+            "confidence": 0.9511719,
+            "punctuated_word": "on."
+          }
+        ],
+        "id": "5c89d0a5-464e-40e7-ae79-3e62a2a82f5e"
+      }
+    ]
+  }
+}
